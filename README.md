@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Pokhrel</h1>
-<h3 align="center">A passionate software Enginner from Nepal</h3>
+<h3 align="center">A passionate full stack software Enginner from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishpokhrel123&label=Profile%20views&color=0e75b6&style=flat" alt="ashishpokhrel123" /> </p>
 
