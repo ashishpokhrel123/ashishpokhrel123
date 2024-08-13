@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python,AI and ML**
 
-- 💬 Ask me about **Node Js, React Js, Databases**
+- 💬 Ask me about **JavaScript, Nest Js, Next Js, Node Js, React Js, Databases**
 
 - 📫 How to reach me **aashishpokhrel146@gmail.com**
 
